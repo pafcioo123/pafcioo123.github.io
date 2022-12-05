@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.6cfe0a4a.js",
+    "main.js": "/static/js/main.73de2f2e.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/pexels-rostislav-uzunov-5680034.mp4": "/static/media/pexels-rostislav-uzunov-5680034.8de3b1a89f862dacc0f7.mp4",
     "static/media/targpolskiscreen.jpg": "/static/media/targpolskiscreen.4c980e036543ac716ae8.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.6cfe0a4a.js.map": "/static/js/main.6cfe0a4a.js.map",
+    "main.73de2f2e.js.map": "/static/js/main.73de2f2e.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.6cfe0a4a.js"
+    "static/js/main.73de2f2e.js"
   ]
 }
